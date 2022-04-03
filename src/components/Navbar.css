@@ -1,0 +1,36 @@
+.navbar-container{
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5px solid rgba(33,42,57,.25);
+    background:#fff;
+    box-shadow: 0 4px 8px 0 rgb(207 224 235 / 50%);
+    height: 60px;
+    display: flex;
+    margin-left:15.5rem;
+}
+
+.tab-name{
+padding: 2rem;
+}
+
+.profile{
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    /* margin-top: 2px; */
+    object-fit: contain;
+    display: flex;
+    justify-content:end;
+}
+.username{
+    font-size: 16px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 0;
+    color: rgba(33,42,57,.75);
+}
+
+.dropdown{
+    width: 25px;
+    height: 25px;
+}

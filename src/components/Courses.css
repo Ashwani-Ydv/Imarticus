@@ -1,0 +1,102 @@
+.course-content {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.courses {
+    width: 60%;
+    height: 150px;
+    background: rgb(255, 255, 255);
+    margin-top: 16px;
+    box-shadow: rgb(207 224 235 / 50%) 0px 4px 8px 0px;
+    border-radius: 4px;
+    display: flex;
+    position: relative;
+    margin-left: 26rem;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+.courses-heading {
+    color: rgba(0, 0, 0, .75);
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 3rem;
+    width: 60%;
+    margin-left: 26rem;
+    text-align: initial;
+}
+
+.courses-img {
+    width: 100%;
+    height: 100%;
+    background: rgba(207, 224, 235, .5);
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.progress {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    height: auto;
+    width: inherit;
+    background: none;
+}
+
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #0d6efd;
+    transition: width .6s ease;
+}
+
+.topic-name {
+    color: #212a39;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.content-container {
+    width: auto;
+}
+
+.course-name {
+    color: #212a39;
+    width: 80%;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.btn-container {
+    width: 310px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+    align-items: center;
+}
+
+.button {
+    background: #055646;
+    color: #fff;
+    height: 48px;
+    width: 170px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 2px;
+}
