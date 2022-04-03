@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Imarticus/static/css/main.146c2529.css",
+    "main.js": "/Imarticus/static/js/main.38b11ec9.js",
+    "static/js/787.cda612ba.chunk.js": "/Imarticus/static/js/787.cda612ba.chunk.js",
+    "static/media/ML.png": "/Imarticus/static/media/ML.bd79b8ebfdd5a58dcfa9.png",
+    "static/media/imarticus.svg": "/Imarticus/static/media/imarticus.4c8cb5b86c98b807105136d3b6089aba.svg",
+    "static/media/Profile.svg": "/Imarticus/static/media/Profile.1673c7c7acc9cefe18b0b1f7263ea852.svg",
+    "index.html": "/Imarticus/index.html",
+    "main.146c2529.css.map": "/Imarticus/static/css/main.146c2529.css.map",
+    "main.38b11ec9.js.map": "/Imarticus/static/js/main.38b11ec9.js.map",
+    "787.cda612ba.chunk.js.map": "/Imarticus/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146c2529.css",
+    "static/js/main.38b11ec9.js"
+  ]
+}
